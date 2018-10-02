@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/list_items"
+          android:title="@string/list_items_string"
+          android:enabled="true"/>
+
+    <item android:id="@+id/delete_items"
+          android:title="@string/delete_items_string"
+          android:enabled="true"/>
+
+    <item android:id="@+id/delete_items_from_server"
+          android:title="@string/delete_items_from_server_string"
+          android:enabled="true"/>
+
+    <item android:id="@+id/exit_button"
+          android:title="@string/exit_button_string"
+          android:enabled="true"/>
+
+</menu>

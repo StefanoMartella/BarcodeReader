@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Barcode Reader</string>
+    <string name="list_items_string">Prodotti</string>
+    <string name="exit_button_string">Esci</string>
+    <string name="start_scan_string">Avvia scansione</string>
+    <string name="show_items_string">Mostra prodotti</string>
+    <string name="scan_items_string">Scansiona di nuovo</string>
+    <string name="add_item_string">Aggiungi</string>
+    <string name="add_informations_string">Aggiungi informazioni prodotto</string>
+    <string name="name_item_string">Nome*</string>
+    <string name="description_item_string">Descrizione*</string>
+    <string name="floor_item_string">Piano*</string>
+    <string name="room_item_string">Stanza*</string>
+    <string name="state_item_string">Stato*</string>
+    <string name="type_item_string">Tipo*</string>
+    <string name="number_item_string">Numero*</string>
+    <string name="idOperator_item_string">ID Operatore*</string>
+    <string name="idWarehouse_item_string">ID Magazzino*</string>
+    <string name="item_informations_string">Informazioni prodotto:</string>
+    <string name="change_item_info_string">Modifica prodotto</string>
+    <string name="change_informations_string">Modifica informazioni prodotto:</string>
+    <string name="modify_item_string">Modifica</string>
+    <string name="delete_items_string">Elimina prodotti</string>
+    <string name="delete_items_from_server_string">Elimina prodotti dal server</string>
+    <string name="delete_item_string">Elimina</string>
+    <string name="code_string">Codice:\n%1$s</string>
+</resources>
